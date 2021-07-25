@@ -1,4 +1,4 @@
-package com.github.pknall;
+package com.github.pknall.jdbc;
 
 // SPI - Service Provider Interface
 // https://docs.oracle.com/javase/tutorial/ext/basics/spi.html
